@@ -1,6 +1,8 @@
 # Boston House Prices
 Regression predictive modeling machine learning problem from end-to-end Python.
 
+![png](house_pic.PNG)
+
 ## About this Dataset
 
 ### Content
@@ -26,9 +28,14 @@ Each record in the database describes a Boston suburb or town. The data was draw
 
 **TAX:** full-value property-tax rate per $10,000
 
-**PTRATIO:** pupil-teacher ratio by town 12. B: 1000(Bk−0.63)2 where Bk is the proportion of blacks by town 13. LSTAT: % lower status of the population
+**PTRATIO:** pupil-teacher ratio by town 
+
+**B:** 1000(Bk−0.63)2 where Bk is the proportion of blacks by town 
+
+**LSTAT:** % lower status of the population
 
 **MEDV:** Median value of owner-occupied homes in $1000s
+
 
 
 
