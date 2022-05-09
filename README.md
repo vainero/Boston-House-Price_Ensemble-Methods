@@ -1,8 +1,10 @@
 # Boston House Prices
 Regression predictive modeling machine learning problem from end-to-end Python.
+Best viewed on [nbviewer](https://nbviewer.org/github/vainero/Boston-House-Price_Ensemble-Methods/blob/main/boston-house-price-ensemble-methods.ipynb)
+
 
 ![png](house_pic.PNG)
-Photo by https://unsplash.com/@pbanselme
+Photo by [@pbanselme](https://unsplash.com/@pbanselme)
 
 ## About this Dataset
 
@@ -36,6 +38,7 @@ Each record in the database describes a Boston suburb or town. The data was draw
 **LSTAT:** % lower status of the population
 
 **MEDV:** Median value of owner-occupied homes in $1000s
+
 
 
 
